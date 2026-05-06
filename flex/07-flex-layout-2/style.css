@@ -27,10 +27,10 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  flex: 1;
   display: flex;
   flex-direction: column;
   align-items: start;
+  flex-shrink: 0;
 }
 
 .card {
@@ -67,7 +67,7 @@ ul a{
 
 .mainbar {
     display: flex;
-    flex: 4;
+    flex: 1;
     flex-wrap: wrap;
     gap: 15px;
     padding: 40px;
