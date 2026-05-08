@@ -130,4 +130,43 @@ nav a{
     text-decoration: capitalize;
     align-self: flex-end;
     color: #1f2937;
-}    
+}   
+
+.call-to-action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    padding: 50px 160px 50px 160px;
+}
+
+.main-cta {
+    background-color: #3882f6;
+    height: 60%;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 50px 100px 50px;
+}
+
+.left-cta {
+    color: #e3e5eb;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 20px;
+
+}
+
+.right-cta button{
+    color: #e3e5eb;
+    background-color: transparent;
+    border: 3px solid #e3e5eb;
+    width: 170px;
+    height: 45px;
+    border-radius: 15px;
+    margin-right: 50px;
+    font-size: 20px;
+
+}
