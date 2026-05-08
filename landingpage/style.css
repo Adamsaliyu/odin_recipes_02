@@ -103,3 +103,31 @@ nav a{
 .card p{
     text-align: center;
 }
+
+.testimonial {
+    background-color: #e3e5eb;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 160px 20px 160px;
+    gap: 20px;
+
+}
+
+.testimonial-note {
+    color: #1f2937;
+    text-align: center;
+    font-weight: 300;
+    font-size: 36px;
+    padding: 30px;
+}
+
+.testimonial-author {
+    font-size: 26px;
+    font-weight: 600;
+    text-decoration: capitalize;
+    align-self: flex-end;
+    color: #1f2937;
+}    
