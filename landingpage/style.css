@@ -170,3 +170,17 @@ nav a{
     font-size: 20px;
 
 }
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+}
+
+.footer p{
+    color: #e9e7eb;
+    font-size: 22px;
+    font-weight: 300;
+}
