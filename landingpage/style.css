@@ -187,3 +187,28 @@ nav a{
     font-size: 22px;
     font-weight: 300;
 }
+
+.card1 .subcard{
+    background-image: url(images/natalie-kinnear-8meK0SfPZYw-unsplash\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card2 .subcard{
+    background-image: url(images/natalie-kinnear-yao1ypcubTs-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card3 .subcard{
+    background-image: url(images/natalie-kinnear-E083NbnCq6Q-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card4 .subcard{
+    background-image: url(images/elena-putina-ENSy20Rj3Ts-unsplash\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
